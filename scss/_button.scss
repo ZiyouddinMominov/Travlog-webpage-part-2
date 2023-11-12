@@ -1,0 +1,44 @@
+.link-style {
+  color: rgba(25, 24, 37, 0.5);
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  transition: all 0.3s;
+}
+.link-style:hover {
+  color: #222831;
+  transition: all 0.3s;
+}
+.black-btn {
+  color: #222831;
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  transition: all 0.3s;
+}
+.black-btn:hover {
+  color: rgba(25, 24, 37, 0.5);
+  transition: all 0.3s;
+}
+.purple-btn {
+  color: #eee;
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 120%;
+  border-radius: 100px;
+  background: #5d50c6;
+  padding: 16px 32px 16px 32px;
+  transition: all 0.3s;
+}
+.purple-btn:hover {
+  transition: all 0.3s;
+  color: #222831;
+  border-radius: 100px;
+  background: #fff;
+}
